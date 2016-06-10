@@ -1,5 +1,5 @@
 # Udemy-Python-for-Data-Analysis
-Online course with Jose Portilla on learning Python for Data Analysis and Visualization using Pandas, NumPy, Sci-Py, Seaborn, etc.
+Online course with Jose Portilla on learning Python for Data Analysis and Visualization using Pandas, NumPy, SciKit, Seaborn, etc.
 
 ##By the end of this course you will:
 
