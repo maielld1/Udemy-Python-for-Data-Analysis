@@ -1,4 +1,7 @@
 #Projects include:
-  ##Titanic Passengers
-  ##Stock Market Analysis
-  ##Election Data Analysis
+
+  1. Analysis of Titanic Passengers
+  
+  2. Stock Market Analysis
+  
+  3. Election Data Analysis
