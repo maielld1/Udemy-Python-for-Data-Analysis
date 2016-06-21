@@ -14,3 +14,5 @@ Online course with Jose Portilla on learning Python for Data Analysis and Visual
 - Have an amazing portfolio of example python data analysis projects!
 
 - Have an understanding of Machine Learning and SciKit Learn!
+
+##See Projects Folder to see the skills in action on real data!
