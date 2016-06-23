@@ -1,4 +1,4 @@
-#Maching Learning Lectures
+#Machine Learning Lectures
 
 ##Using SciKit Learn library for:
 
